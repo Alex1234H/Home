@@ -31,6 +31,7 @@ body {
 	display: flex;
 	flex-direction: column;
 	gap: 0.5em;
+	color: #000000;
 }
 
 #eingabefeld {
@@ -38,6 +39,7 @@ body {
 		border: 1px solid #3c4043;
 		font-size: 2rem;
 		text-align: inherit;
+		color: #000000;
 		
 	
 }
