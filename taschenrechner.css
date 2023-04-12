@@ -7,8 +7,11 @@ body {
 	place-items: center;
 	min-height: 100vh;
 	margin: 0;
-	background-color: #202123;
 	color: #e8eaed;
+	background-color: #93acfa ; 
+	background-image: url("Bild.png");
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 
 #taschenrechner {
@@ -31,6 +34,7 @@ body {
 	display: flex;
 	flex-direction: column;
 	gap: 0.5em;
+	color: #000000;
 }
 
 #eingabefeld {
@@ -38,7 +42,7 @@ body {
 		border: 1px solid #3c4043;
 		font-size: 2rem;
 		text-align: inherit;
-		
+		color: #000000;		
 	
 }
 
